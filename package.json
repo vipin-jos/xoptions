@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "black-scholes": "^1.1.0",
     "express": "^4.16.3",
     "lodash": "^4.17.10",
     "mongodb": "^3.1.1",
